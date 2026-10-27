@@ -1,4 +1,4 @@
-/* Шапка */
+/* Хедер */
 
 .header {
   display: grid;
@@ -54,7 +54,7 @@
   margin-right: 35px;
 }
 
-/* Обложка */
+/* Кавер */
 
 .cover {
   position: relative;
@@ -136,7 +136,7 @@
   appearance: none;
 }
 
-/* Секция с лотами */
+/* Лоты */
 
 .lots {
   padding: 180px 24px 0;
@@ -218,7 +218,7 @@
   font-size: 20px;
 }
 
-/* Секция «Об аукционе» */
+/* Об аукционе */
 
 .about {
   display: grid;
@@ -263,7 +263,7 @@
   font-weight: 400;
 }
 
-/* Подвал */
+/* Футер */
 
 .footer {
   display: grid;
